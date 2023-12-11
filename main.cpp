@@ -98,7 +98,7 @@ void analog()
 int main()
 {
     
-    DigitalOut led1(LED2);
+    DigitalOut led1(D6);
     printf("Hoi2\n");
 
 
